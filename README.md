@@ -125,3 +125,12 @@ As evidências utilizadas durante o experimento estão organizadas na pasta `evi
 - [Processos — estado inicial](evidencias/antes/processos-antes.png)
 - [Memória — após aumento da carga](evidencias/depois/memoria-depois.png)
 - [Processos — após aumento da carga](evidencias/depois/processos-depois.png)
+
+## Competências demonstradas
+
+- Monitoramento de recursos do Windows;
+- Análise de processos e consumo de memória;
+- Gerenciamento de memória em sistemas operacionais;
+- Interpretação de indicadores de desempenho;
+- Comparação de dados antes e depois de uma alteração no sistema;
+- Documentação e análise técnica baseada em evidências.
