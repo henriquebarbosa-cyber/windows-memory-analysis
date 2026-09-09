@@ -119,12 +119,27 @@ A atividade contribuiu para relacionar os conceitos estudados sobre gerenciament
 
 ## Evidências
 
-As evidências utilizadas durante o experimento estão organizadas na pasta `evidencias/`.
+As evidências utilizadas durante o experimento estão organizadas por etapa.
 
-- [Memória — estado inicial](evidencias/antes/memoria-antes.png)
-- [Processos — estado inicial](evidencias/antes/processos-antes.png)
-- [Memória — após aumento da carga](evidencias/depois/memoria-depois.png)
-- [Processos — após aumento da carga](evidencias/depois/processos-depois.png)
+### Estado inicial
+
+#### Uso de memória
+
+![Memória - estado inicial](evidencias/antes/memoria-antes.png)
+
+#### Processos
+
+![Processos - estado inicial](evidencias/antes/processos-antes.png)
+
+### Após aumento da carga
+
+#### Uso de memória
+
+![Memória - após aumento da carga](evidencias/depois/memoria-depois.png)
+
+#### Processos
+
+![Processos - após aumento da carga](evidencias/depois/processos-depois.png)
 
 ## Competências demonstradas
 
